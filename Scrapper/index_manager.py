@@ -1,6 +1,6 @@
 # index_manager.py
 
-from index_scrapers import IndexScraper
+from .index_scrapers import IndexScraper
 
 class IndexManager:
     def __init__(self):
